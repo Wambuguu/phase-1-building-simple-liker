@@ -39,7 +39,7 @@ article.media-post > footer ul {
   list-style-type: none;
 }
 
-#modal {
+/* #modal {
   border-radius: 10px;
   background-color: maroon;
   color: white;
@@ -51,7 +51,7 @@ article.media-post > footer ul {
   top: 0;
   left: 0;
   right: 0;
-}
+} */
 
 #modal p {
   margin-bottom: 0;
